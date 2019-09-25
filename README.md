@@ -1,4 +1,5 @@
 # first_
-There is screenshots of test
-and oop practice
+-[x] There is screenshots of test
+-[x] and oop practice
+:+1:
 readme first
